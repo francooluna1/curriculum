@@ -66,7 +66,7 @@ function App() {
               <span className="d-flex justify-content-start">
                 <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 mt-1" />
                 <p>
-                  <strong>LOCALIDAD:</strong> Tafi Viejo, Tucuman, Argentina
+                  <strong>LOCALIDAD:</strong> Tucuman, Argentina
                 </p>
               </span>
             </Col>
@@ -140,9 +140,9 @@ function App() {
             </div>
             <div className="my-4 texto">
               <span>
-                <h5>Ingeniería en Sistemas | Facultad Regional Tucuman</h5>
-                <p>2016 - Hoy</p>
-                <h6>Cursando actualmente el tercer año</h6>
+                <h5>Licenciatura Superior en Programacion | Facultad Regional Tucuman</h5>
+                <p>2021</p>
+                <h6>Cursando actualmente el primer año</h6>
               </span>
             </div>
           </Col>
@@ -198,7 +198,7 @@ function App() {
             </div>
             <div className="mb-4">
               <strong>JAVASCRIPT</strong>
-              <ProgressBar variant="info" animated now={60} />
+              <ProgressBar variant="info" animated now={50} />
             </div>
             <div className="mb-4">
               <strong>REACT</strong>
@@ -206,10 +206,10 @@ function App() {
             </div>
             <div className="mb-4">
               <strong>NODEJS</strong>
-              <ProgressBar variant="info" animated now={50} />
+              <ProgressBar variant="info" animated now={40} />
             </div><div className="mb-4">
               <strong>MONGODB</strong>
-              <ProgressBar variant="info" animated now={50} />
+              <ProgressBar variant="info" animated now={40} />
             </div>
             <div className="mb-4">
               <strong>SCRUM</strong>
