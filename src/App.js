@@ -66,7 +66,7 @@ function App() {
               <span className="d-flex justify-content-start">
                 <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 mt-1" />
                 <p>
-                  <strong>LOCALIDAD:</strong> Tafi Viejo, Tucuman, Argentina
+                  <strong>LOCALIDAD:</strong> Tucuman, Argentina
                 </p>
               </span>
             </Col>
@@ -100,24 +100,6 @@ function App() {
             lo profesional.
           </p>
         </span>
-        <span className="d-flex justify-content-start">
-          <FontAwesomeIcon icon={faCaretSquareRight} className="mr-2 mt-1" />
-          <p>
-            Creo que la capacidad de superación es una de las cualidades más
-            importantes para cualquier trabajador. Es por eso me considero capaz
-            de mejorar y aprender a diario, de cada una de las oportunidades
-            laborales que se me presenten.
-          </p>
-        </span>
-        <span className="d-flex justify-content-start">
-          <FontAwesomeIcon icon={faCaretSquareRight} className="mr-2 mt-1" />
-          <p>
-            No busco una empresa que me asegure un salario el resto de mi vida,
-            sino la oportunidad de demostrar al mundo que los jóvenes también
-            tenemos posibilidades de crecer profesionalmente y dar lo mejor de
-            nosotros mismos a las empresas que confiaron en nuestra capacidad.
-          </p>
-        </span>
       </section>
       <hr></hr>
       <section className="container my-5">
@@ -129,6 +111,13 @@ function App() {
                 <strong>EDUCACION</strong>
               </p>
             </span>
+            <div className="my-4 texto">
+              <span>
+                <h5>Licenciatura Superior en Programacion | Facultad Regional Tucuman</h5>
+                <p>2021 - Hoy</p>
+                <h6>Cursando actualmente el primer año</h6>
+              </span>
+            </div>
             <div className="my-2 texto">
               <span>
                 <h5>Secundario Completo | Nuestra Señora de Montserrat</h5>
@@ -136,13 +125,6 @@ function App() {
                 <h6>
                   Titulo: Bachillerato en administración y gestión de empresas
                 </h6>
-              </span>
-            </div>
-            <div className="my-4 texto">
-              <span>
-                <h5>Ingeniería en Sistemas | Facultad Regional Tucuman</h5>
-                <p>2016 - Hoy</p>
-                <h6>Cursando actualmente el tercer año</h6>
               </span>
             </div>
           </Col>
