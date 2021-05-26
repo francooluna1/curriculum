@@ -111,14 +111,14 @@ function App() {
                 <strong>EDUCACION</strong>
               </p>
             </span>
-            <div className="my-4 texto">
+            <div className="my-2 texto">
               <span>
-                <h5>Licenciatura Superior en Programacion | Facultad Regional Tucuman</h5>
+                <h5>Tecnicatura Superior en Programacion | Facultad Regional Tucuman</h5>
                 <p>2021 - Hoy</p>
                 <h6>Cursando actualmente el primer año</h6>
               </span>
             </div>
-            <div className="my-2 texto">
+            <div className="my-4 texto">
               <span>
                 <h5>Secundario Completo | Nuestra Señora de Montserrat</h5>
                 <p>2009 - 2015</p>
@@ -138,8 +138,8 @@ function App() {
             <div className="my-2 texto">
               <span>
                 <h5>Developer FullStack | RollingCodeSchool</h5>
-                <p>2020</p>
-                <h6>FrontEnd y Backend.</h6>
+                <p className="mt-4">2020</p>
+                <h6 className="mt-4">FrontEnd y Backend.</h6>
               </span>
             </div>
             <div className="my-4 texto">
