@@ -180,7 +180,7 @@ function App() {
             </div>
             <div className="mb-4">
               <strong>JAVASCRIPT</strong>
-              <ProgressBar variant="info" animated now={60} />
+              <ProgressBar variant="info" animated now={50} />
             </div>
             <div className="mb-4">
               <strong>REACT</strong>
@@ -188,10 +188,10 @@ function App() {
             </div>
             <div className="mb-4">
               <strong>NODEJS</strong>
-              <ProgressBar variant="info" animated now={50} />
+              <ProgressBar variant="info" animated now={40} />
             </div><div className="mb-4">
               <strong>MONGODB</strong>
-              <ProgressBar variant="info" animated now={50} />
+              <ProgressBar variant="info" animated now={40} />
             </div>
             <div className="mb-4">
               <strong>SCRUM</strong>
