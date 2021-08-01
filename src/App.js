@@ -113,7 +113,7 @@ function App() {
             </span>
             <div className="my-2 texto">
               <span>
-                <h5>Tecnicatura Superior en Programacion | Facultad Regional Tucuman</h5>
+                <h5>Tecnicatura Universitaria en Programacion | Facultad Regional Tucuman</h5>
                 <p>2021 - Hoy</p>
                 <h6>Cursando actualmente el primer año</h6>
               </span>
